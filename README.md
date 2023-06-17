@@ -1,7 +1,5 @@
 # AFIT EPITA 20/20
 
-Grade: 20/20
-
 Do not copy, otherwise it is at your own risk
 
 -----------------------------------------------------
